@@ -1,7 +1,7 @@
 {
-  "name": "passport-oauth2",
+  "name": "@passport/oauth2",
   "version": "2.0.0",
-  "description": "OAuth 2.0 authentication strategy for Passport.",
+  "description": "updated fork of passport-oauth2",
   "keywords": [
     "passport",
     "auth",
@@ -13,20 +13,16 @@
     "oauth2"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Dayne Mentier",
+    "email": "dayne.mentier@gmail.com",
+    "url": "https://github.com/mainfraame/passport-oauth2-fork"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
+    "url": "git://github.com/mainfraame/passport-oauth2-fork.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth2/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "url": "https://github.com/mainfraame/passport-oauth2-fork/issues"
   },
   "license": "MIT",
   "licenses": [

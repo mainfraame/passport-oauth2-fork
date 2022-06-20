@@ -1,4 +1,6 @@
-# passport-oauth2
+# @passport/oauth2
+
+**this is a fork of `passport-oauth2` that adds support for fastify**
 
 General-purpose OAuth 2.0 authentication strategy for [Passport](http://passportjs.org/).
 
@@ -36,7 +38,7 @@ list so other people can find it.
 
 ## Install
 
-    $ npm install passport-oauth2
+    $ npm install @passport/oauth2
 
 ## Usage
 
@@ -99,24 +101,17 @@ expected to have corresponding test cases.  Ensure that the complete test suite
 passes by executing:
 
 ```bash
-$ make test
+$ npm run test
 ```
 
 #### Coverage
 
 All new feature development is expected to have test coverage.  Patches that
-increse test coverage are happily accepted.  Coverage reports can be viewed by
+increase test coverage are happily accepted.  Coverage reports can be viewed by
 executing:
 
-```bash
-$ make test-cov
-$ make view-cov
-```
 
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2011-2016 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
-
 
