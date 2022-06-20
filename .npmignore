@@ -1,0 +1,12 @@
+Makefile
+docs/
+examples/
+reports/
+test/
+
+babel.config.js
+.depcheckrc
+.eslintignore
+.eslintrc.js
+.travis.yml
+.tsconfig.json

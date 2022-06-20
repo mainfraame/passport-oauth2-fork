@@ -1,0 +1,6 @@
+ignores: [
+    "@babel/preset-env",
+    "@babel/preset-typescript",
+    "@babel/plugin-transform-runtime",
+    "@babel/runtime-corejs3"
+]
